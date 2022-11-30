@@ -93,7 +93,7 @@ const instagramIcon = (
 const Footer = ({ footer }) => {
   return (
     <>
-      <div className="preFooter">
+      <div className="PreFooter">
         <div>
           {repeatIcon}
           <p>
@@ -105,7 +105,7 @@ const Footer = ({ footer }) => {
         <div>{mapIcon} <p> <b>Vast service network</b> <br/> 1000 Mi service-centers across 600 cities</p></div>
 
         {/*  prefooter 2 */}
-        <div className="preFooter2">
+        <div className="PreFooter2">
             <div> <p>LET'S STAY IN TOUCH</p><span>Get updates on sales specials and more</span></div>
    
 
