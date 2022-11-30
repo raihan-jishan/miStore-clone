@@ -1,11 +1,12 @@
 #   `Mi store / xiomi website clone `
-<img src="https://raw.githubusercontent.com/raihan-jishan/Github-cover-photo/main/images/mi%20store.png" />
+
 #  `T e c h l o g i e s : --   `
 ## (1) -- React || version 18 ^ ..
 ## (2) -- Boostrap | React boostrap || version 2.6.0 ^ :  5.2.3 ^
 ## (3) -- Custom css -- Svg icon || Best ui 
 ## (4) -- With react hooks -- >
 
+<img src="https://raw.githubusercontent.com/raihan-jishan/Github-cover-photo/main/images/mi%20store.png" />
 
 # Getting Started with Create React App
 
